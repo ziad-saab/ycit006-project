@@ -6,7 +6,7 @@ The app talks to the [OpenWeather API](https://openweathermap.org/api) to retrie
 Read the following instructions carefully and make sure you don't miss any steps. Have fun :)
 
 ## Getting started
-1. Download `ycit006-project.zip`, extract it, move to the directory where it was extracted, and run `npm install` to get all the dependencies.
+1. Download `ycit006-project-master.zip`, extract it, move to the directory where it was extracted, and run `npm install` to get all the dependencies.
 
 2. The package you downloaded is composed of lots of files, but there are few key ones you should familiarize yourself with:
 
